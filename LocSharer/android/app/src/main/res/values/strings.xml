@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocSharer</string>
+    <string name="fb_app_id">{YOUR FACEBOOK APP ID}</string>
+    <string name="fb_login_protocol_scheme">fb{YOUR FACEBOOK APP ID}</string>
+</resources>
