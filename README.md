@@ -1,8 +1,10 @@
 # locSharer
 
-A location-sharing app built with React Native and Pusher. This uses Pusher to share geolocation data in realtime. 
+A location-sharing app built with React Native and Pusher. This uses Pusher to share geolocation data in realtime. The full tutorial is available at: https://pusher.com/tutorials/geolocation-sharing-react-native/
 
 ## Getting Started
+
+Below is a quick summary to get the project to run:
 
 1. Sign up for API keys on Pusher, Google and Facebook.
 2. Clone the project
@@ -13,7 +15,7 @@ cd locSharer
 ```
 
 3. Replace the API keys in the files on the `locSharer` folder.
-4. Add secrets with *Now*.
+4. Add secrets with [*Now*](https://zeit.co/now).
 5. Deploy server with *Now* (use the secrets).
 6. Run the app
 
